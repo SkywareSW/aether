@@ -2,7 +2,7 @@
   "name": "Aether Music",
   "short_name": "Aether",
   "description": "Your personal music player",
-  "start_url": "/index.html",
+  "start_url": "/aether/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0d0015",
